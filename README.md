@@ -1,4 +1,4 @@
-# AI Agricultural Decision Intelligence System
+# Crop-Desicion-Support-system
 
 > Transforming crop prediction into **actionable decision-making** using AI, simulation, and explainable insights.
 
